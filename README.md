@@ -1,4 +1,4 @@
 # GUI
-tkinker Gui
+tkinter Gui
 
 Made Gui with Python using tkinter
